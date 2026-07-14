@@ -53,7 +53,7 @@ I've received bug bounty recognition from **~48 organizations**, including Googl
       </a>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/crto.png" width="90"/><br/>
+      <img src="assets/badges/CRTO.jpg" width="90"/><br/>
       <sub><b>CRTO</b></sub>
     </td>
     <td align="center" width="140">
