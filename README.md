@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Red Team Consultant & Penetration Tester** at **Hacktilizer Cybersecurity Consulting**, based between **Bangkok** and **Yangon**. My work covers full-spectrum offensive security — Web/API, Mobile (Android/iOS), Active Directory attacks, and Red Team operations — for clients across **Finance, Food & Beverage, Delivery Services, and Education** sectors.
+I'm a **Red Team Consultant & Penetration Tester** at **Hacktilizer Cybersecurity Consulting**, based between **Bangkok** and **Yangon**. My work covers full-spectrum offensive security - Web/API, Mobile (Android/iOS), Active Directory, and Red Team operations for clients across **Finance, Food & Beverage, Delivery Services, and Education** sectors.
 
 I've received bug bounty recognition from **~48 organizations**, including Google VRP, Binance, NASA, IBM, and the Singapore Government.
 
