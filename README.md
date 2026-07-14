@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8b0000,100:0f0f0f&height=220&section=header&text=Phyo%20WaThone%20Win&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Red%20Team%20Consultant%20//%20Penetration%20Tester%20//%20Bug%20Bounty%20Hunter&descSize=17&descAlignY=55&animation=twinkling)
 
 [![Website](https://img.shields.io/badge/PORTFOLIO-8b0000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://phyowathonewin.pro/)
-[![Email](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](wathonewin.work@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wathonewin.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyowathonewin/)
 [![HacktheBox](https://img.shields.io/badge/HACKERONE-8b0000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phyo_wathone_win)
 
