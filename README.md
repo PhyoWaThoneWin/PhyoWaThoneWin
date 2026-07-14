@@ -94,7 +94,37 @@ I've received bug bounty recognition from **48 organizations**, including Google
 ## 🛠️ Core Skills
 
 **Offensive Security**
-`Web / API Pentesting` `Mobile (Android/iOS) Pentesting` `Active Directory Attacks` `Kerberos (RBCD, Constrained Delegation, Domain Trusts)` `AD CS (ESC1/ESC4/ESC8)` `Cobalt Strike & Malleable C2` `Red Team Operations`
+`Web / API Pentesting` `Mobile (Android/iOS) Pentesting` `Active Directory Attacks` `AI Automation` `Cobalt Strike` `Red Team Operations`
+
+**Tools**
+`Burp Suite` `Nessus` `Kali Linux` `John the Ripper` `Nmap` `Metasploit` `sqlmap` `Hydra` `Cobalt Strike` `Wireshark` `MobSF` `ADB` `APKTool` `Jadx-GUI` `Rubeus` `Mimikatz` `Nuclei` `ffuf` `BloodHound` `Impacket Suite` `Crackmapexec` `Kibana`
+
+**Skilled In**
+
+<div align="left">
+
+![PCI DSS](https://img.shields.io/badge/PCI_DSS-1e293b?style=for-the-badge)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Hunting-b91c1c?style=for-the-badge)
+![Thick Client](https://img.shields.io/badge/Thick_Client_Pentesting-1e3a8a?style=for-the-badge)
+![Network Pentest](https://img.shields.io/badge/Network_Penetration_Testing-0f766e?style=for-the-badge)
+![Website Pentest](https://img.shields.io/badge/Website_Penetration_Testing-2563eb?style=for-the-badge)
+![Mobile App Pentest](https://img.shields.io/badge/Mobile_Application_Pentesting-4338ca?style=for-the-badge)
+![EDR](https://img.shields.io/badge/Endpoint_Detection_%26_Response-4c1d95?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-9a3412?style=for-the-badge)
+![Pentest](https://img.shields.io/badge/Penetration_Testing-374151?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-0369a1?style=for-the-badge)
+![Hardware](https://img.shields.io/badge/Computer_Hardware_Troubleshooting-334155?style=for-the-badge)
+![Windows Server](https://img.shields.io/badge/Windows_Server-1e3a8a?style=for-the-badge)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-b91c1c?style=for-the-badge)
+![OS Admin](https://img.shields.io/badge/Operating_System_Administration-166534?style=for-the-badge)
+![Patch Mgmt](https://img.shields.io/badge/Patch_Management-0f766e?style=for-the-badge)
+![Vuln Mgmt](https://img.shields.io/badge/Vulnerability_Management-4338ca?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-334155?style=for-the-badge)
+![InfoSec](https://img.shields.io/badge/Information_Security-1e293b?style=for-the-badge)
+![Red Team Op](https://img.shields.io/badge/Red_Team_Operation-000000?style=for-the-badge)
+![Reporting](https://img.shields.io/badge/Standard_Reporting_%26_Communication-4c1d95?style=for-the-badge)
+
+</div>
 
 **Defensive / Blue Team**
 `Elastic (ELK/Kibana)` `KQL` `Sysmon` `MITRE ATT&CK Mapping` `Alert Triage`
