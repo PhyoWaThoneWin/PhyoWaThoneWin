@@ -1,13 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:374151,100:3b82f6&height=220&section=header&text=Phyo%20WaThone%20Win&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Red%20Team%20Consultant%20%7C%20Penetration%20Tester%20%7C%20Bug%20Bounty%20Hunter&descSize=18&descAlignY=52&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=PHYO%20WATHONE%20WIN&fontSize=42&fontColor=00ff41&fontAlignY=40&desc=%3E%20Red%20Team%20Consultant%20_%20Penetration%20Tester%20_%20Bug%20Bounty%20Hunter&descSize=16&descColor=00ff41&descAlignY=65&animation=fadeIn)
 
-[![Website](https://img.shields.io/badge/✦_CLICK_TO_ENTER_MY_WEBSITE-374151?style=for-the-badge)](https://phyowathonewin.pro/)
-[![Portfolio](https://img.shields.io/badge/PHYOWATHONEWIN.PRO-14b8a6?style=for-the-badge)](https://phyowathonewin.pro/)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+whoami;phyo_wathone_win;root%40kali%3A~%23+nmap+-sV+skills.io;OSCP+%7C+CRTO+%7C+CRTP+%7C+48%2B+Bounties)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhyoWaThoneWin)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PHYO_WATHONE_WIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyowathonewin/)
-[![HackerOne](https://img.shields.io/badge/HACKERONE-000000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phyo_wathone_win)
+[![Website](https://img.shields.io/badge/⚡_PORTFOLIO-000000?style=for-the-badge&logo=todoist&logoColor=00ff41)](https://phyowathonewin.pro/)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/PhyoWaThoneWin)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/phyowathonewin/)
+[![HackerOne](https://img.shields.io/badge/HACKERONE-000000?style=for-the-badge&logo=hackerone&logoColor=00ff41)](https://hackerone.com/phyo_wathone_win)
 
 </div>
 
