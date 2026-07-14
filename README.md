@@ -1,13 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=PHYO%20WATHONE%20WIN&fontSize=42&fontColor=00ff41&fontAlignY=40&desc=%3E%20Red%20Team%20Consultant%20_%20Penetration%20Tester%20_%20Bug%20Bounty%20Hunter&descSize=16&descColor=00ff41&descAlignY=65&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8b0000,100:0f0f0f&height=220&section=header&text=Phyo%20WaThone%20Win&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Red%20Team%20Operator%20//%20Penetration%20Tester%20//%20Bug%20Bounty%20Hunter&descSize=17&descAlignY=55&animation=twinkling)
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+whoami;phyo_wathone_win;root%40kali%3A~%23+nmap+-sV+skills.io;OSCP+%7C+CRTO+%7C+CRTP+%7C+48%2B+Bounties)
-
-[![Website](https://img.shields.io/badge/⚡_PORTFOLIO-000000?style=for-the-badge&logo=todoist&logoColor=00ff41)](https://phyowathonewin.pro/)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/PhyoWaThoneWin)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/phyowathonewin/)
-[![HackerOne](https://img.shields.io/badge/HACKERONE-000000?style=for-the-badge&logo=hackerone&logoColor=00ff41)](https://hackerone.com/phyo_wathone_win)
+[![Website](https://img.shields.io/badge/PORTFOLIO-8b0000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://phyowathonewin.pro/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhyoWaThoneWin)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyowathonewin/)
+[![HackerOne](https://img.shields.io/badge/HACKERONE-8b0000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phyo_wathone_win)
 
 </div>
 
