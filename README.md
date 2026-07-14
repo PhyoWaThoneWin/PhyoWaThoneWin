@@ -27,28 +27,67 @@ I've received bug bounty recognition from **~48 organizations**, including Googl
 
 ---
 
+
 ## 🏆 Certifications
 
 <div align="center">
 
-![CJCA](https://img.shields.io/badge/CJCA-Certified_Junior_Cyber_Analyst-b91c1c?style=for-the-badge&logo=hackthebox&logoColor=white)
-![CRTO](https://img.shields.io/badge/CRTO-Certified_Red_Team_Operator-1e3a8a?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![CRTSv2](https://img.shields.io/badge/CRTSv2-Certified_Red_Team_Specialist_v2-4c1d95?style=for-the-badge&logo=cyberdefenders&logoColor=white)
-
-![CRTP](https://img.shields.io/badge/CRTP-Certified_Red_Team_Professional-0f766e?style=for-the-badge&logo=activedirectory&logoColor=white)
-![CRTA](https://img.shields.io/badge/CRTA-Certified_Red_Team_Analyst-9a3412?style=for-the-badge&logo=linux&logoColor=white)
-![MCRTA](https://img.shields.io/badge/MCRTA-Mobile_Certified_Red_Team_Analyst-166534&logoColor=white?style=for-the-badge&logo=android)
-
-![ASCP](https://img.shields.io/badge/ASCP-Application_Security_Certified_Professional-a16207?style=for-the-badge&logo=owasp&logoColor=white)
-![ACP](https://img.shields.io/badge/ACP-Application_Certified_Professional-334155?style=for-the-badge&logo=codacy&logoColor=white)
-![CASA](https://img.shields.io/badge/CASA-Cloud_Application_Security_Assessment-0369a1?style=for-the-badge&logo=googlecloud&logoColor=white)
-![CMPen](https://img.shields.io/badge/CMPen-Certified_Mobile_Pentester-be185d?style=for-the-badge&logo=samsung&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.credential.net/0f9baf73-08dc-4174-bd15-9e6c766a0910">
+        <img src="assets/badges/crtp.png" width="90"/><br/>
+        <sub><b>CRTP</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.credential.net/751f1d5c-60ac-4328-92e5-19729a135cfb">
+        <img src="assets/badges/crta.png" width="90"/><br/>
+        <sub><b>CRTA</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.credential.net/ae1e339e-2599-42c3-81c4-0ae4f75a7720">
+        <img src="assets/badges/crtsv2.png" width="90"/><br/>
+        <sub><b>CRTSv2</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <img src="assets/badges/crto.png" width="90"/><br/>
+      <sub><b>CRTO</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="assets/badges/mcrta.png" width="90"/><br/>
+      <sub><b>MCRTA</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="assets/badges/cmpen.png" width="90"/><br/>
+      <sub><b>CMPen</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/9363587d-f650-4656-9368-587868c862fe/public_url">
+        <img src="assets/badges/casa.png" width="90"/><br/>
+        <sub><b>CASA</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/670e0feb-3ab6-4694-9e6d-5e529bcc37d4/public_url">
+        <img src="assets/badges/acp.png" width="90"/><br/>
+        <sub><b>ACP</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/e7074305-ae71-4821-ab7e-b7ac26af5320/public_url">
+        <img src="assets/badges/ascp.png" width="90"/><br/>
+        <sub><b>ASCP</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-> 🎓 Currently preparing for **CPTS** (Hack The Box).
-
-<sub>Badges are generated via shields.io as visual references — not official Credly/issuer artwork.</sub>
 
 ---
 
