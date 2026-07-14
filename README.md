@@ -35,43 +35,43 @@ I've received bug bounty recognition from **~48 organizations**, including Googl
 <table>
   <tr>
     <td align="center" width="140">
-      <img src="assets/badges/ASCP.jpg" width="90"/><br/>
+      <img src="assets/badges/ASCP.jpg" width="100"/><br/>
       <sub><b>ASCP</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/ACP.jpg" width="90"/><br/>
+      <img src="assets/badges/ACP.jpg" width="100"/><br/>
       <sub><b>ACP</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/CASA.jpg" width="90"/><br/>
+      <img src="assets/badges/CASA.jpg" width="100"/><br/>
       <sub><b>CASA</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/CRTO.jpg" width="90"/><br/>
+      <img src="assets/badges/CRTO.jpg" width="100"/><br/>
       <sub><b>CRTO</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/CRTP.png" width="90"/><br/>
+      <img src="assets/badges/CRTP.png" width="100"/><br/>
       <sub><b>CRTP</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/CRTS.jpg" width="90"/><br/>
+      <img src="assets/badges/CRTS.jpg" width="100"/><br/>
       <sub><b>CRTSv2</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/CJCA.png" width="90"/><br/>
+      <img src="assets/badges/CJCA.png" width="100"/><br/>
       <sub><b>CJCA</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/CRTA.jpg" width="90"/><br/>
+      <img src="assets/badges/CRTA.jpg" width="100"/><br/>
       <sub><b>CRTA</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/MCRTA.jpg" width="90"/><br/>
+      <img src="assets/badges/MCRTA.jpg" width="100"/><br/>
       <sub><b>MCRTA</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/CMPEN.png" width="90"/><br/>
+      <img src="assets/badges/CMPEN.png" width="100"/><br/>
       <sub><b>CMPen</b></sub>
     </td>
   </tr>
