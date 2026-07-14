@@ -35,54 +35,44 @@ I've received bug bounty recognition from **~48 organizations**, including Googl
 <table>
   <tr>
     <td align="center" width="140">
-      <a href="https://www.credential.net/0f9baf73-08dc-4174-bd15-9e6c766a0910">
-        <img src="assets/badges/crtp.png" width="90"/><br/>
-        <sub><b>CRTP</b></sub>
-      </a>
+      <img src="assets/badges/ASCP.jpg" width="90"/><br/>
+      <sub><b>CRTO</b></sub>
     </td>
     <td align="center" width="140">
-      <a href="https://www.credential.net/751f1d5c-60ac-4328-92e5-19729a135cfb">
-        <img src="assets/badges/crta.png" width="90"/><br/>
-        <sub><b>CRTA</b></sub>
-      </a>
+      <img src="assets/badges/ACP.jpg" width="90"/><br/>
+      <sub><b>CRTO</b></sub>
     </td>
     <td align="center" width="140">
-      <a href="https://www.credential.net/ae1e339e-2599-42c3-81c4-0ae4f75a7720">
-        <img src="assets/badges/crtsv2.png" width="90"/><br/>
-        <sub><b>CRTSv2</b></sub>
-      </a>
+      <img src="assets/badges/CASA.jpg" width="90"/><br/>
+      <sub><b>CRTO</b></sub>
     </td>
     <td align="center" width="140">
       <img src="assets/badges/CRTO.jpg" width="90"/><br/>
       <sub><b>CRTO</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/mcrta.png" width="90"/><br/>
+      <img src="assets/badges/CRTP.png" width="90"/><br/>
+      <sub><b>CRTO</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="assets/badges/CRTS.jpg" width="90"/><br/>
       <sub><b>MCRTA</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="assets/badges/cmpen.png" width="90"/><br/>
+      <img src="assets/badges/CJCA.png" width="90"/><br/>
       <sub><b>CMPen</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.credly.com/badges/9363587d-f650-4656-9368-587868c862fe/public_url">
-        <img src="assets/badges/casa.png" width="90"/><br/>
-        <sub><b>CASA</b></sub>
-      </a>
+    <td align="center" width="140">
+      <img src="assets/badges/CRTA.jpg" width="90"/><br/>
+      <sub><b>CMPen</b></sub>
     </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/670e0feb-3ab6-4694-9e6d-5e529bcc37d4/public_url">
-        <img src="assets/badges/acp.png" width="90"/><br/>
-        <sub><b>ACP</b></sub>
-      </a>
+    <td align="center" width="140">
+      <img src="assets/badges/MCRTA.jpg" width="90"/><br/>
+      <sub><b>CMPen</b></sub>
     </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/e7074305-ae71-4821-ab7e-b7ac26af5320/public_url">
-        <img src="assets/badges/ascp.png" width="90"/><br/>
-        <sub><b>ASCP</b></sub>
-      </a>
+    <td align="center" width="140">
+      <img src="assets/badges/CMPEN.png" width="90"/><br/>
+      <sub><b>CMPen</b></sub>
     </td>
   </tr>
 </table>
