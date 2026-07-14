@@ -15,13 +15,13 @@
 
 I'm a **Red Team Consultant & Penetration Tester** at **Hacktilizer Cybersecurity Consulting**, based between **Bangkok** and **Yangon**. My work covers full-spectrum offensive security - Web/API, Mobile (Android/iOS), Active Directory, and Red Team operations for clients across **Finance, Food & Beverage, Delivery Services, and Education** sectors.
 
-I've received bug bounty recognition from **~48 organizations**, including Google VRP, Binance, NASA, IBM, and the Singapore Government.
+I've received bug bounty recognition from **48 organizations**, including Google VRP, Binance, NASA, IBM, and the Singapore Government.
 
-- 🔭 Currently working on client red team engagements & AD attack chains
-- 🎯 Focused on Active Directory, Kerberos attacks, and C2 tradecraft (Cobalt Strike)
-- 🛡️ Growing into Blue Team / detection engineering (Elastic, KQL, Sysmon, MITRE ATT&CK)
-- 📝 Sharing course notes & write-ups in this repo
-- 🌐 Full profile & resume: **[phyowathonewin.pro](https://phyowathonewin.pro/)**
+- **Currently** working on client Red Team Engagements
+- **Position**: Red Team Consultant, Offensive Security, Penetration Tester, Bug Bounty Hunter
+- **Focused** on Active Directory, Web, API, Mobile, Thickclient, AI Automation
+- **Growing** into Blue Team / detection engineering (Elastic, KQL, Sysmon, MITRE ATT&CK)
+- **Full profile & resume:** **[phyowathonewin.pro](https://phyowathonewin.pro/)**
 
 ---
 
