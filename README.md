@@ -6,6 +6,7 @@
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wathonewin.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phyowathonewin/)
 [![HacktheBox](https://img.shields.io/badge/HACKERONE-8b0000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phyo_wathone_win)
+[![HackTheBox](https://img.shields.io/badge/HACK_THE_BOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e3a69-7c84-7231-b7d2-c659c7d36ad8)
 
 </div>
 
@@ -32,6 +33,18 @@ I've received bug bounty recognition from **48 organizations**, including Google
 <table>
   <tr>
     <td align="center" width="140">
+      <a href="https://www.credly.com/go/CJd3dN5o0WNLr8qPnm8T1w">
+        <img src="assets/badges/CPTS.jpg" width="90"/><br/>
+        <sub><b>CPTS</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.credly.com/badges/9353ecab-240a-4168-b6c8-34d2cf2bc46a/public_url">
+        <img src="assets/badges/CJCA.png" width="90"/><br/>
+        <sub><b>CJCA</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
       <a href="https://www.credly.com/badges/e7074305-ae71-4821-ab7e-b7ac26af5320/public_url">
         <img src="assets/badges/ASCP.jpg" width="90"/><br/>
         <sub><b>ASCP</b></sub>
@@ -49,6 +62,8 @@ I've received bug bounty recognition from **48 organizations**, including Google
         <sub><b>CASA</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="140">
       <img src="assets/badges/CRTO.jpg" width="90"/><br/>
       <sub><b>CRTO</b></sub>
@@ -59,17 +74,11 @@ I've received bug bounty recognition from **48 organizations**, including Google
         <sub><b>CRTP</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="140">
       <a href="https://www.credential.net/ae1e339e-2599-42c3-81c4-0ae4f75a7720#acc.b3G7HcwN">
         <img src="assets/badges/CRTS.jpg" width="90"/><br/>
         <sub><b>CRTSv2</b></sub>
       </a>
-    </td>
-    <td align="center" width="140">
-      <img src="assets/badges/CJCA.png" width="90"/><br/>
-      <sub><b>CJCA</b></sub>
     </td>
     <td align="center" width="140">
       <a href="https://www.credential.net/751f1d5c-60ac-4328-92e5-19729a135cfb#acc.54tIHBqn">
@@ -81,6 +90,8 @@ I've received bug bounty recognition from **48 organizations**, including Google
       <img src="assets/badges/MCRTA.jpg" width="90"/><br/>
       <sub><b>MCRTA</b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="140">
       <img src="assets/badges/CMPEN.png" width="90"/><br/>
       <sub><b>CMPen</b></sub>
@@ -157,6 +168,7 @@ I've received bug bounty recognition from **48 organizations**, including Google
 [![Portfolio](https://img.shields.io/badge/Website-phyowathonewin.pro-1e3a8a?style=flat-square)](https://phyowathonewin.pro/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phyowathonewin-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phyowathonewin/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-phyo__wathone__win-black?style=flat-square&logo=hackerone)](https://hackerone.com/phyo_wathone_win)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e3a69-7c84-7231-b7d2-c659c7d36ad8)
 
 </div>
 
